@@ -1,6 +1,6 @@
-# bmi_calculator
+# LAB 1 - Lean Body Mass Calculator Application
 
-A new Flutter project.
+Hello, we need to develop Lean Body Mass Calculator to calculate for men and women.
 
 ## Getting Started
 
