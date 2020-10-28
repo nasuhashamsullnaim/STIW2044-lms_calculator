@@ -16,12 +16,9 @@ class _MyAppState extends State<MyApp> {
   TextEditingController _heightctrl = new TextEditingController();
   TextEditingController _weightctrl = new TextEditingController();
 
-  double lbmBoer = 0.0, lbmJames = 0.0, lbmHume = 0.0, lbmChild = 0.0;
-  double percentBoer = 0.0,
-      percentJames = 0.0,
-      percentHume = 0.0,
-      percentChild = 0.0;
-  double fatBoer = 0.0, fatJames = 0.0, fatHume = 0.0, fatChild = 0.0;
+  double lbmBoer = 0, lbmJames = 0, lbmHume = 0, lbmChild = 0;
+  double percentBoer = 0, percentJames = 0, percentHume = 0, percentChild = 0;
+  double fatBoer = 0, fatJames = 0, fatHume = 0, fatChild = 0;
   String lbm = "";
   int gender = 0, age = 0;
 
